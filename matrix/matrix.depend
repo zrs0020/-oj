@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577883204 source:d:\codeblockworks\matrix\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
