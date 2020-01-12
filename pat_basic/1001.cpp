@@ -13,4 +13,5 @@ int main()
         b++;
     }
     cout<<b;
+    return 0;
 }
